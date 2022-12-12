@@ -1,5 +1,12 @@
-
 img{
     width: auto;
     height: 70%;
+}
+body{
+    font-family: "Times New Roman", cursive, sans-serif;
+    background-color: lightsteelblue;
+    color: darkslategray;
+}
+tbody{
+    color: darkslategray;
 }
