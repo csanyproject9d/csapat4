@@ -1,11 +1,9 @@
-
 img{
     width: auto;
     height: 70%;
 }
 body{
-    font-family: "Comic Sans MS", cursive, sans-serif;
-}
-body{
+    font-family: "Times New Roman", cursive, sans-serif;
     background-color: lightsteelblue;
+    color: darkslategray;
 }
