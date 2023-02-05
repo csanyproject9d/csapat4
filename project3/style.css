@@ -5,3 +5,8 @@ body{
     background-color: chartreuse;
     font-family: "Comic Sans MS", "Comic Sans", cursive;;
 }
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
