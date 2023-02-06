@@ -1,0 +1,12 @@
+body{
+    background-color: lightcoral;
+}
+.clr{
+    background-color: chartreuse;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;;
+}
+a:hover {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
